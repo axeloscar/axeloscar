@@ -24,8 +24,7 @@
 - 🚗 Automotive CPS security  
 - 🛠️ Forensics, custom OS builds
 - ⚔️ CTF & OSINT
-- 🗃️ Personal knowledge management with **Obsidian**  
-- ⏱️ Research productivity & workflow automation
+- 🗃️ Research productivity & workflow automation & knowledge management 
 
 ⚡️ **Fun Fact**  
 I use game theory to model cyberattacks. Ironically, the biggest threat remains reviewer #2.
