@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="left" id="axeloscar-title">👋 Hey there, I'm Axel Oscar</h1>
+<h3 align="left">PhD Student • Privacy Advocate • Cyber-Systems Architect</h3>
 
-<!--
-**axeloscar/axeloscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/axeloscar">
+    <img src="https://komarev.com/ghpvc/?username=axeloscar" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<a href="#axeloscar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=axeloscar&show_icons=true&theme=default" alt="GitHub stats" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔬 **Currently**  
+- 🎓 PhD student at [Institut Polytechnique de Paris](https://www.ip-paris.fr/)  
+- 🔐 Working on **cybersecurity for automotive CPS**, with **formal methods**, **Moving Target Defense (MTD)** , **game theory**, **multi-agent systems**, and **temporal logics** 
+- 🧩 Designing **resilient architectures** for secure, adaptive, and verifiable systems
+
+---
+
+💡 **Main Interests**  
+- 🔄 Active cyber defense: MTD, SDN, attack graphs  
+- 🧠 Formal verification: TLA+, NuSMV, model checking  
+- 🛡 Strategic reasoning & adversarial modeling 
+- 🚗 Automotive CPS security  
+- 🛠️ Forensics, custom OS builds
+- ⚔️ CTF & OSINT
+- 🗃️ Personal knowledge management with **Obsidian**  
+- ⏱️ Research productivity & workflow automation
+
+
+---
+
+⚡️ **Fun Fact**  
+I use game theory to model cyberattacks. Ironically, the biggest threat remains reviewer #2.
+
+---
+
+🤝 **Let's Connect**
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/axeloscar) or shoot me a message via [my issue page](https://github.com/axeloscar/axeloscar/issues). Always happy to discuss research, privacy, or obscure bugs.
+
+
