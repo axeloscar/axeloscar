@@ -16,9 +16,6 @@
 🔬 **Currently**  
 - 🎓 PhD student at [Institut Polytechnique de Paris](https://www.ip-paris.fr/)  
 - 🔐 Working on **cybersecurity for automotive CPS**, with **formal methods**, **Moving Target Defense (MTD)** , **game theory**, **multi-agent systems**, and **temporal logics** 
-- 🧩 Designing **resilient architectures** for secure, adaptive, and verifiable systems
-
----
 
 💡 **Main Interests**  
 - 🔄 Active cyber defense: MTD, SDN, attack graphs  
@@ -30,16 +27,10 @@
 - 🗃️ Personal knowledge management with **Obsidian**  
 - ⏱️ Research productivity & workflow automation
 
-
----
-
 ⚡️ **Fun Fact**  
 I use game theory to model cyberattacks. Ironically, the biggest threat remains reviewer #2.
 
----
-
 🤝 **Let's Connect**
-
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/axeloscar) or shoot me a message via [my issue page](https://github.com/axeloscar/axeloscar/issues). Always happy to discuss research, privacy, or obscure bugs.
 
 
